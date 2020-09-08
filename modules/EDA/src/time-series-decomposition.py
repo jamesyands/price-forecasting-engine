@@ -5,7 +5,6 @@ import numpy as np
 
 def do_work(input1_file, output1_file, parameter1):
     output_text = ''
-
     output1_file.write(output_text)
 
 def main(args):
