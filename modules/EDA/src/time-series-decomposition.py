@@ -4,7 +4,7 @@ from pathlib import Path
 import numpy as np
 
 def do_work(input1_file, output1_file, parameter1):
-    output_text = ''
+    output_text = '123'
     output1_file.write(output_text)
 
 def main(args):
